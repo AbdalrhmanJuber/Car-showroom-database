@@ -1,6 +1,9 @@
 # Car Showroom Database
 ![care](https://github.com/user-attachments/assets/f86766d1-20fa-46da-b4e9-bb8765259894)
 
+
+![Uploading ERD.png…]()
+
 ## Overview
 
 This project is a backend database application developed for managing the operations of a car showroom. It handles comprehensive data storage and retrieval, allowing efficient management of transactions, inventory, customer relations, and reporting.
