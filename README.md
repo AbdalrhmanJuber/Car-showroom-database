@@ -14,8 +14,8 @@ This project is a backend database application developed for managing the operat
 
 ## Technology Stack
 
-Backend: SQL for database operations.
+**Backend**: SQL for database operations.
 
-Programming Language: Java (with JDBC) for database connectivity and logic handling.
+**Programming Language**: Java (with JDBC) for database connectivity and logic handling.
 
-Development Environment: IntelliJ IDEA / Eclipse recommended.
+**Development Environment**: IntelliJ IDEA / Eclipse recommended.
