@@ -1,8 +1,8 @@
 # Car Showroom Database
 ![care](https://github.com/user-attachments/assets/f86766d1-20fa-46da-b4e9-bb8765259894)
 
+![ERD](https://github.com/user-attachments/assets/95b36e72-6129-44b5-bd10-899fa0cfb0e6)
 
-![Uploading ERD.png…]()
 
 ## Overview
 
